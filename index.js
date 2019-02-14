@@ -26,8 +26,3 @@ function iLoveTheBeatles(number) {
   while (number<15);
   return num;
 }
-  const array[];
-}
-for (let i=0, l = musicians.length; i<l; i++) {
-  return `${musicians} plays ${instrument}`;
-  }
